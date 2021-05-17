@@ -15,8 +15,8 @@
 
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #16e0bd;
-    --clr-pop: #B10DC9;
+    --clr-accent: #B0E0E6;
+    --clr-pop: #FF7F50;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -341,7 +341,7 @@ header {
 }
 
 .about-me__body {
-    color: var(--clr-pop);
+    color: var(--clr-dark);
     font-weight: var(--fw-reg);
     font-size: 1.2rem;
 }
@@ -382,7 +382,7 @@ header {
 
 .my-work {
     background-color: var(--clr-dark);
-    color: var(--clr-light);
+    color: var(--clr-pop);
     text-align: center;
 }
 
